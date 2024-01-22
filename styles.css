@@ -1,0 +1,18 @@
+@import url("/styles/header.css");
+@import url("/styles/apresentacao.css");
+@import url("/styles/metricas.css");
+@import url("reset.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+:root {
+    --cor-titulo: #101828;
+    --cor-texto: #667085;
+    --cor-destaque: #8E2424;
+    --cor-neutra: #000000;
+    --fonte: 'Inter', sans-serif;
+
+}
+
+body {
+    font-family:var(--fonte)
+}

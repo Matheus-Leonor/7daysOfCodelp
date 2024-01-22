@@ -1,0 +1,43 @@
+.metricas {
+    display:flex;
+    align-items: flex-start;
+    padding: 0 2em;
+    padding-bottom: 6em;
+    gap: 2em;
+    
+ 
+
+}
+
+.metricas__item {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    
+}
+
+.metricas_numero {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 72px;
+    color: var(--cor-destaque);
+    align-self: stretch;
+   
+
+}
+
+.metricas__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    align-self: stretch;
+  
+}
+
+.metricas__texto {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    align-self: stretch;
+    
+}
